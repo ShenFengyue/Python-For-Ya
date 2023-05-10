@@ -14,6 +14,12 @@
 
 ![image](https://github.com/ShenFengyue/Python-For-You/blob/main/img/%E4%BA%A4%E4%BA%92%E7%95%8C%E9%9D%A2.png)
 
+这是交互界面，你说一句，它说一句，你可以在这个界面ctrl+N，进入这个界面：
+
+![image](https://github.com/ShenFengyue/Python-For-You/blob/main/img/%E5%86%99%E9%95%BF%E7%AF%87%E4%BB%A3%E7%A0%81.png)
+
+可以在这个窗口写长篇大论代码
+
 ## Python中的注释
 
 一个#号，一个空格，然后写注释，叫单独成行的注释，如下：
