@@ -1,0 +1,25 @@
+-   基本数据类型：basic data types
+-   组合数据类型：composite data types
+-   列表：list
+-   元组：tuple
+-   集合：set
+-   字符串：string
+-   注释：comment
+-   循环：loop
+-   分支：branch
+
+
+-   字典：dictionary，dict
+-   函数：function，def
+-   类：class，class
+-   对象：object，object
+-   模块：module，import
+-   包：package，package
+-   异常：exception，try-except
+-   装饰器：decorator，@
+-   生成器：generator，yield
+-   迭代器：iterator，iter
+-   切片：slice
+-   赋值：assignment，=
+-   表达式：expression，expression
+-   语句：statement，statement
