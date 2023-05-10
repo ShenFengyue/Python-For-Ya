@@ -33,4 +33,6 @@
 
 但我会不断学习，不断更新这个文档，这也将是记录我成长过程的一个repository，我认为是极有意义的。
 
+![image](https://github.com/ShenFengyue/Python-For-You/blob/main/img/%E6%95%99%E7%A7%91%E4%B9%A6.jpg)
+
 
