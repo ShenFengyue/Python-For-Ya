@@ -9,7 +9,7 @@
 下载并安装好后，点击这个：
 
 
-https://github.com/ShenFengyue/Python-For-You/blob/main/img/IDLE.png
+<img>https://github.com/ShenFengyue/Python-For-You/blob/main/img/IDLE.png
 
 进入这个界面![Uploading Pasted image 20230510115612.png…]()
 
