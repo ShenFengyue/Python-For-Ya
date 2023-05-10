@@ -9,6 +9,7 @@
 
 
 下载并安装后，点击这个
+
 ![image](https://github.com/ShenFengyue/Python-For-You/blob/main/img/IDLE.png)
 
 进入这个界面，是你说一句，它说一句的交互界面
@@ -20,6 +21,7 @@
 在此界面按Ctrl+N，进入如下界面，输入你的长篇大论代码，并运行
 
 ![iamge](https://github.com/ShenFengyue/Python-For-You/blob/main/img/%E5%86%99%E9%95%BF%E7%AF%87%E4%BB%A3%E7%A0%81.png)
+
 
 
 
