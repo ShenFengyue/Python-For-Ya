@@ -8,10 +8,11 @@
 
 下载并安装好后，点击这个：
 
-
 ![image](https://github.com/ShenFengyue/Python-For-You/blob/main/img/IDLE.png)
 
-进入这个界面![Uploading Pasted image 20230510115612.png…]()
+进入这个界面
+
+![image](https://github.com/ShenFengyue/Python-For-You/blob/main/img/%E4%BA%A4%E4%BA%92%E7%95%8C%E9%9D%A2.png)
 
 ## Python中的注释
 
